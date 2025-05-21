@@ -1817,7 +1817,7 @@ color:#000;
 		font-size:14px;
 	}
 	.flexslider .flex-caption {
-		bottom: -1vh;
+		bottom: -2vh;
 	}
 	.flexslider .flex-caption h3 {
 		color: #FFFFFF; letter-spacing: 1px; 
@@ -1832,7 +1832,7 @@ color:#000;
 		font-size: 18px;
 	}
 	.flexslider .flex-caption p {
-		font-size: 9.4px !important; 
+		font-size: 8.5px !important; 
 		line-height: 1.2;
 	}
 }
